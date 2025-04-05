@@ -1,0 +1,10 @@
+NOmbreCliente: dennis
+TipoComida: Perro
+Cantidad: 4
+Precio: 250000.0
+---------------------------------------
+NOmbreCliente: sebas
+TipoComida: burger
+Cantidad: 4
+Precio: 400000.0
+---------------------------------------
