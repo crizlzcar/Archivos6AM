@@ -2,7 +2,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class Menu {
+public class Menu {//Esto es un menu
     public static void main(String[] args) {
         boolean bandera = true;
         int opt = 0;
