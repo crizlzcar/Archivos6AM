@@ -1,10 +1,30 @@
 NOmbreCliente: dennis
 TipoComida: Perro
 Cantidad: 4
-Precio: 250000.0
+Precio: null
 ---------------------------------------
 NOmbreCliente: sebas
 TipoComida: burger
 Cantidad: 4
-Precio: 400000.0
+Precio: null
+---------------------------------------
+NOmbreCliente: pedro
+TipoComida: French Fries
+Cantidad: 12
+Precio: null
+---------------------------------------
+NOmbreCliente: reyes
+TipoComida: burger
+Cantidad: 4
+Precio: null
+---------------------------------------
+NOmbreCliente: camilo
+TipoComida: Perro
+Cantidad: 4
+Precio: null
+---------------------------------------
+NOmbreCliente: Rojas
+TipoComida: French Fries
+Cantidad: 1
+Precio: 10000.0
 ---------------------------------------
