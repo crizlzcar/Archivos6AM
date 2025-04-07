@@ -24,7 +24,7 @@ public class Importar {
                     }
                 } else if (line.startsWith("Cantidad: ")) {
                     if (pedido != null) {
-                        pedido.setCantidad(Integer.parseInt(line.substring(7)));
+                        pedido.setCantidad(Integer.parseInt(line.substring(10)));
 
                     }
                 } else if (line.startsWith("Edad: ")) {
